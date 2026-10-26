@@ -1,11 +1,12 @@
 {
- "version": "9.9.10",
- "file": "crew-9.9.10.crewpkg",
- "url": "https://github.com/bishoikhella/crew-updates/releases/download/test-9.9.10/crew-9.9.10.crewpkg",
- "sha256": "178a0209dcedc1d611b9e7c49202f34c5aab4d891328015e77ac8c6770645c8f",
- "size": 1537,
- "published": "2026-10-24",
+ "version": "9.9.11",
+ "file": "crew-9.9.11.crewpkg",
+ "url": "https://github.com/bishoikhella/crew-updates/releases/download/test-9.9.11/crew-9.9.11.crewpkg",
+ "sha256": "1d7e277479a400078af54f80a4a0b3bc53ea382dc8590e6bd0c4b7b2008a2e66",
+ "size": 23954948,
+ "published": "2026-10-26",
  "min_version": "1.0.0",
+ "file_lists": "https://github.com/bishoikhella/crew-updates/releases/download/test-{version}/crew-{version}.files",
  "channel": "test",
  "keyed": true
 }
